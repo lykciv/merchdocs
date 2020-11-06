@@ -45,7 +45,7 @@ To use New Relic APM Pro to gather and transmit data, the PHP agent must be ins
 
     * Set **Enable New Relic Integration** to `Yes`.
 
-    * In the **Insights API URL**, replace the percent (%) symbol with your New Relic Account ID.
+    * In the **Insights API URL**, replace the percent (%s) symbol with your New Relic Account ID.
 
     * Enter your **New Relic Account ID**.
 
